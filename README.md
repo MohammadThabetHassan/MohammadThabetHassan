@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Thabet</h1>
 <h3 align="center">Cybersecurity Student at Canadian University of Dubai 🌐🛡️</h3>
 
-- 🌱 I’m currently learning Cybersecurity, Data Analysis, and SQL 🔒 Exploring the dynamic field of cybersecurity while delving into data's insights. 🎓 Certified in: Technical Support Fundamentals (Google) Introduction to Android Mobile Application Development (Meta) Foundations of User Experience (UX) Design (Google) Crash Course on Python (Google) Introduction to Java and Object-Oriented Programming (University of Pennsylvania) First Place Winner in Initial Coding Competition Unity Session Participant Google Cybersecurity Certificate 💻 Proficient in: Python, Java, Flutter, HTML 📊 Mastering SQL to unravel complex data puzzles and enhance decision-making.**
+- 🌱 I’m currently learning Cybersecurity, Data Analysis, and SQL 🔒 Exploring the dynamic field of cybersecurity while delving into data's insights. 🎓 Certified in: Technical Support Fundamentals (Google) Introduction to Android Mobile Application Development (Meta) Foundations of User Experience (UX) Design (Google) Crash Course on Python (Google) Introduction to Java and Object-Oriented Programming (University of Pennsylvania) First Place Winner in Initial Coding Competition Unity Session Participant Google Cybersecurity Certificate 💻 Proficient in: Python, Java, Flutter, HTML 📊 Mastering SQL to unravel complex data puzzles and enhance decision-making.
 
-- 📫 How to reach me **mohammad1qwertyu@gmail.com**
+- 📫 How to reach me **Mohammad_Thabet@hotmail.com**
 
 - ⚡ Fun fact **I have more browser tabs open than the number of times I've said "Hello, World!" in all programming languages combined! 🌐👾**
 
