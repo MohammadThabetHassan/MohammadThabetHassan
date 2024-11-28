@@ -47,16 +47,15 @@
   - **Workshops Completed:** Router Hacking, Network Pentesting 101  
 
 <h3 align="left">🎖️ Badges:</h3>
-<p align="left">
+<p align="left" style="display: flex; gap: 10px;">
   <a href="https://www.credly.com/badges/4c1c7cb6-0ac1-4a05-b4a6-1b24473ca384/public_url">
     <img src="https://github.com/user-attachments/assets/effd0f1b-c611-4269-ac37-6b7d0d794d98" alt="GitHub Foundations Badge" width="120" height="120">
   </a>
-</p>
-<p align="left">
   <a href="https://www.credly.com/badges/bc8a3f43-167d-4d01-8977-6726233959a8/public_url">
     <img src="https://github.com/user-attachments/assets/0990b8f9-8a53-4341-8e70-7e67aa36f949" alt="opswat-introduction-to-critical-infrastructure-protection-icip Badge" width="120" height="120">
   </a>
 </p>
+
 
 
 📫 **Contact Me:**  
