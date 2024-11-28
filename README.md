@@ -54,6 +54,9 @@
   <a href="https://www.credly.com/badges/bc8a3f43-167d-4d01-8977-6726233959a8/public_url">
     <img src="https://github.com/user-attachments/assets/0990b8f9-8a53-4341-8e70-7e67aa36f949" alt="opswat-introduction-to-critical-infrastructure-protection-icip Badge" width="120" height="120">
   </a>
+  <a href="https://www.credly.com/badges/0081edcf-1f16-4a5e-8228-80f3ebbc1ec4/public_url">
+  <img src="https://github.com/user-attachments/assets/242f3b14-982d-4c8b-971b-99a22ffeb77c" alt="AWS Educate Introduction to Cloud 101 Badge" width="120" height="120">
+  </a>
 </p>
 
 
