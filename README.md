@@ -14,7 +14,6 @@
   - Foundations of User Experience (UX) Design (Google)  
   - Crash Course on Python (Google)  
   - Introduction to Java and Object-Oriented Programming (University of Pennsylvania)  
-  - GitHub Foundations ([View Badge](https://www.credly.com/badges/4c1c7cb6-0ac1-4a05-b4a6-1b24473ca384/public_url))  
   - Website Basics: Code with HTML, CSS, and JavaScript (University of London)  
   - Google Cybersecurity Certificate  
   - Data Analysis Fundamentals from Udacity  
@@ -46,6 +45,13 @@
   - **Second Place:** Software for Junior & Senior Students Category (Engineering)  
   - **Outstanding Participant:** Capture The Flag (CTF) Competition - Exploit3rs  
   - **Workshops Completed:** Router Hacking, Network Pentesting 101  
+
+<h3 align="left">🎖️ Badges:</h3>
+<p align="left">
+  <a href="https://www.credly.com/badges/4c1c7cb6-0ac1-4a05-b4a6-1b24473ca384/public_url">
+    <img src="https://images.credly.com/size/340x340/images/4c1c7cb6-0ac1-4a05-b4a6-1b24473ca384/GitHub_Foundations_Badge.png" alt="GitHub Foundations Badge" width="120" height="120">
+  </a>
+</p>
 
 📫 **Contact Me:**  
   - Email: Mohammad_Thabet@hotmail.com  
