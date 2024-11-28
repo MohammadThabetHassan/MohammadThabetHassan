@@ -49,10 +49,10 @@
 <h3 align="left">🎖️ Badges:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/4c1c7cb6-0ac1-4a05-b4a6-1b24473ca384/public_url">
-    <img src="https://images.credly.com/size/340x340/images/4c1c7cb6-0ac1-4a05-b4a6-1b24473ca384/GitHub_Foundations_Badge.png" alt="GitHub Foundations Badge" width="120" height="120">
+  <img src="https://images.credly.com/size/340x340/images/4c1c7cb6-0ac1-4a05-b4a6-1b24473ca384/GitHub_Foundations_Badge.png" alt="GitHub Foundations Badge" width="120" height="120">
   </a>
 </p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4c1c7cb6-0ac1-4a05-b4a6-1b24473ca384" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 📫 **Contact Me:**  
   - Email: Mohammad_Thabet@hotmail.com  
