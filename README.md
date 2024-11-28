@@ -49,7 +49,7 @@
 <h3 align="left">🎖️ Badges:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/4c1c7cb6-0ac1-4a05-b4a6-1b24473ca384/public_url">
-    <img src="https://drive.google.com/file/d/1YYkVLqKwmiEx5PdTsdAS_LFPhPVxB8MR/view?usp=drive_link" alt="GitHub Foundations Badge" width="120" height="120">
+    <img src="https://github.com/user-attachments/assets/effd0f1b-c611-4269-ac37-6b7d0d794d98" alt="GitHub Foundations Badge" width="120" height="120">
   </a>
 </p>
 
