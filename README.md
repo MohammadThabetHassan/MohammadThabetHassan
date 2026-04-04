@@ -58,7 +58,7 @@
   <img src="https://github.com/user-attachments/assets/242f3b14-982d-4c8b-971b-99a22ffeb77c" alt="AWS Educate Introduction to Cloud 101 Badge" width="120" height="120">
   </a>
   <a href="https://www.credly.com/badges/d8a65f22-094a-4622-a6e2-7b6d49404744/public_url">
-    <img src="https://github.com/user-attachments/assets/242f3b14-982d-4c8b-971b-99a22ffeb77c" 
+    <img src="https://github.com/user-attachments/assets/351621b8-f5de-401a-89db-4d3a1f67ae4e" 
          alt="Introduction to Modern AI Badge" width="120" height="120">
   </a>
 </p>
