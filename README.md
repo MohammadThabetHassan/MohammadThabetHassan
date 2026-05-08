@@ -62,7 +62,7 @@
          alt="Introduction to Modern AI Badge" width="120" height="120">
   </a>
   <a href="https://www.credly.com/badges/0917eb89-0ecf-438c-bb3c-41f44fe42311/public_url">
-    <img src="https://www.credly.com/badges/0917eb89-0ecf-438c-bb3c-41f44fe42311/public_url" 
+    <img src="https://github.com/user-attachments/assets/2c87df25-d729-4c2b-b31a-fdb62da692aa" 
          alt="Ethical Hacker" width="120" height="120">
   </a>
   
