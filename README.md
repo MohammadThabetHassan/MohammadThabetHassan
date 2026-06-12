@@ -1,18 +1,22 @@
 <div align="center">
 
-# Mohammad Thabet Hassan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Mohammad%20Thabet%20Hassan&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20%C2%B7%20AI%20Security%20%C2%B7%20Machine%20Learning&descSize=18&descAlignY=55" width="100%" alt="header banner"/>
 
-**Cybersecurity Engineer in the making · AI Security & Voice Deepfake Detection**
+<a href="https://github.com/MohammadThabetHassan">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=3500&pause=900&color=2C8DBD&center=true&vCenter=true&width=620&lines=Cybersecurity+Student+%40+Canadian+University+of+Dubai;AI+Security+%26+Voice+Deepfake+Detection;PyTorch+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Docker+%E2%80%A2+ONNX" alt="typing intro"/>
+</a>
 
-BSc Cybersecurity — Canadian University of Dubai · Class of 2026 · Dubai, UAE 🇦🇪
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadthabet)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammad_Thabet@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://mohammadthabethassan.github.io)
 
+<img src="https://komarev.com/ghpvc/?username=MohammadThabetHassan&style=flat-square&color=2C5364&label=profile+views" alt="profile views"/>
+
 </div>
 
-## About me
+## 👨‍💻 About me
 
 I work at the intersection of **cybersecurity and machine learning** — most recently building
 **VoiceGuard**, an end-to-end voice deepfake detection platform that earned an **IEEE SM2026
@@ -24,31 +28,7 @@ and known limits.
 - ⚙️ **Engineering:** PyTorch → FastAPI → React → Docker → edge (ONNX)
 - 🛡️ **Security:** penetration testing, web & network vulnerability assessment, digital forensics
 
----
-
-## 🛡️ Featured — VoiceGuard
-
-<a href="https://github.com/MohammadThabetHassan/VoiceGuard">
-  <img src="https://raw.githubusercontent.com/MohammadThabetHassan/VoiceGuard/main/assets/hero.png" alt="VoiceGuard — real-time voice deepfake detection" width="100%">
-</a>
-
-**Real-time voice deepfake detection, synthesis watermarking, and vishing defence** — detects
-AI voice clones in real time, explains its verdicts, C2PA-signs everything it generates, and
-ships a 0.62 MB model for the edge.
-
-| Highlight | Result |
-|-----------|--------|
-| Official ASVspoof 2021 LA eval (181,566 trials) | **2.84% EER** — XLS-R-300M + AASIST |
-| ElevenLabs v3 — engine *never seen* in training | **95.8% detection** |
-| Edge model (INT8 ONNX, CPU-only) | **0.62 MB · ~30 ms** inference |
-| Research output | **IEEE SM2026 accepted paper** (F1 = 0.95) |
-| Deployment | **Live** — mic streaming, Twilio call screening, forensic PDF reports |
-
-**Stack:** PyTorch · Transformers · FastAPI · React 18 · Docker · ONNX Runtime · Nginx
-
-📂 [Repository](https://github.com/MohammadThabetHassan/VoiceGuard) · 🌐 [Live demo](https://voice-deepfake-vishing-detector-generator.eu.cc)
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
 ## 🧰 Skills
 
@@ -60,7 +40,7 @@ ships a 0.62 MB model for the edge.
 | **Frontend & Data** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat) |
 | **Security** | Penetration Testing · Web Vulnerability Scanning · Network Pentesting · Audio Anti-Spoofing · Digital Forensics (NIST SP 800-86) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
 ## 📚 Projects
 
@@ -73,7 +53,7 @@ ships a 0.62 MB model for the edge.
 | **Shopping Automation Bots** | Automated purchasing workflows on Noon and AliExpress | Java |
 | **Student Companion App** | Class management and smart reminders for university students | Flutter |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
 ## 🏆 Achievements
 
@@ -119,29 +99,40 @@ ships a 0.62 MB model for the edge.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MohammadThabetHassan&show_icons=true&theme=github_dark&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadThabetHassan&show_icons=true&hide_border=true" alt="GitHub stats" height="160">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MohammadThabetHassan&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadThabetHassan&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub stats" height="160">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadThabetHassan&layout=compact&theme=github_dark&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadThabetHassan&layout=compact&hide_border=true" alt="Top languages" height="160">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadThabetHassan&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadThabetHassan&layout=compact&hide_border=true&bg_color=00000000" alt="Top languages" height="160">
 </picture>
 
-</div>
+<br><br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MohammadThabetHassan&theme=github-dark-blue&hide_border=true&background=00000000">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadThabetHassan&hide_border=true&background=00000000" alt="GitHub streak" height="160">
+</picture>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MohammadThabetHassan&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies" width="90%"/>
+
+</div>
 
 <div align="center">
 
 📫 **Open to opportunities in AI security, ML engineering, and cybersecurity.**
 
 [LinkedIn](https://www.linkedin.com/in/mohammadthabet) · [Email](mailto:Mohammad_Thabet@hotmail.com) · [Portfolio](https://mohammadthabethassan.github.io)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="footer banner"/>
 
 </div>
