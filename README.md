@@ -16,24 +16,31 @@
 
 </div>
 
-## 👨‍💻 About me
+<br>
 
-Cybersecurity researcher and **B.Sc. Cyber Security graduate** (Canadian University of Dubai,
-May 2026) with **three IEEE papers as lead/co-author** and a fourth in preparation for an
-**Elsevier Q1 journal**. **First-place national CTF champion** with hands-on experience securing
-production cloud and email infrastructure (AWS, Alibaba Cloud) and building research-grade
-offensive and AI-security tooling — from deep-RL SQL-injection agents to edge-deployable
-deepfake detection.
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 🔴 **Offensive:** web / network / wireless pentesting, cloud & identity attacks, exploit development
-- 🔬 **Research:** AI/ML security · adversarial ML · explainable AI · audio anti-spoofing
-- 🎯 **Targeting:** red-team, SOC, and AI-security engineering roles
+<div align="center">
 
-🌐 **Languages:** Arabic (native) · English (C1, full professional proficiency)
+Cybersecurity researcher and **B.Sc. Cyber Security graduate** (Canadian University of Dubai, May 2026)
+<br>with **three IEEE papers as lead/co-author** and a fourth in preparation for an **Elsevier Q1 journal**.
+<br>**First-place national CTF champion** with hands-on experience securing production cloud and email
+<br>infrastructure (AWS, Alibaba Cloud) and building research-grade offensive and AI-security tooling —
+<br>from deep-RL SQL-injection agents to edge-deployable deepfake detection.
+
+<br>
+
+🔴 **Offensive** — web / network / wireless pentesting · cloud & identity attacks · exploit development
+<br>🔬 **Research** — AI/ML security · adversarial ML · explainable AI · audio anti-spoofing
+<br>🎯 **Targeting** — red-team, SOC, and AI-security engineering roles
+
+🌐 Arabic (native) · English (C1, full professional proficiency)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
-## 💼 Experience
+<h2 align="center">💼 Experience</h2>
 
 **Web & Cloud Security Administrator — Madar Alholool (Orbit Solutions)** · Dubai, UAE · *Jun – Nov 2025*
 
@@ -43,7 +50,7 @@ deepfake detection.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
-## 📄 Publications & Research
+<h2 align="center">📄 Publications & Research</h2>
 
 ![Published](https://img.shields.io/badge/IEEE_Xplore-PUBLISHED-2E7D32?style=flat-square)
 **SmartInject: Automated SQL Injection Testing Using Deep Q-Learning and LSTM-Based Payload Generation**
@@ -67,22 +74,7 @@ deepfake detection.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
-## 📚 Selected Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[VoiceGuard](https://github.com/MohammadThabetHassan/VoiceGuard)** ⭐ | Real-time voice deepfake detection, watermarking & vishing defence — 2.84% EER, IEEE SM2026, live deployment | PyTorch · FastAPI · React |
-| **[XAI-IDS](https://github.com/MohammadThabetHassan/xai-ids)** | Explainable intrusion detection across 3 datasets / 16M+ records with live browser inference | XGBoost · SHAP · LIME |
-| **[TokenAbuse-Azure](https://github.com/MohammadThabetHassan/TokenAbuse-Azure)** | M365 cloud red-team: OAuth device-code abuse → Graph enumeration → SharePoint exfiltration | Entra ID · Microsoft Graph |
-| **[Log Monitoring & Alerting](https://github.com/MohammadThabetHassan/Log-Monitoring-and-Alert-System)** | SIEM-style detection engine — high-performance C parser + Bash, structured-JSON alerts | C · Bash · cron |
-| **[AI Campus-Safety Detection](https://github.com/MohammadThabetHassan/bcs407-campus-safety)** | Real-time computer vision for safety-critical objects — YOLOv8m, **mAP@0.5 = 0.98** at 5.2 ms/frame | YOLOv8 · OpenCV |
-| **[SmartTranspo](https://github.com/MohammadThabetHassan/alibaba-rta-hackathon)** | Full-stack ML smart map for Dubai taxi drivers — 🥇 Dubai AI System Competition, honoured at GITEX Global | FastAPI · React · Alibaba Cloud |
-| **Evil Portal — Wi-Fi Phishing PoC** | Captive-portal credential capture & MITM keylogging with defensive write-up *(authorized lab only)* | Kali · hostapd |
-| **[Assistive Hologram Glasses](https://github.com/MohammadThabetHassan/Assistive-Hologram-Projecting-Glasses-for-Individuals-with-Hearing-Impairments)** | Mobile app + 3D hologram model assisting hearing-impaired individuals | Flutter · Blender |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
-
-## 🏆 Awards & Competitions
+<h2 align="center">🏆 Awards & Competitions</h2>
 
 - 🥇 **1st place — Exploit3rs CTF** (Zayed Sector & CyberE71), 2025 — national Capture-the-Flag; finished first across web, network, and binary-exploitation tracks
 - 🥇 **1st place & "Best Implementation Champion" — Dubai AI System Competition**, 2024 (Alibaba Cloud / RTA Hackathon) — honoured at **GITEX Global**
@@ -92,7 +84,7 @@ deepfake detection.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
-## 🧰 Technical Skills
+<h2 align="center">🧰 Technical Skills</h2>
 
 | | |
 |---|---|
@@ -107,10 +99,14 @@ deepfake detection.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
-## 🎓 Education & Certifications
+<h2 align="center">🎓 Education & Certifications</h2>
+
+<div align="center">
 
 **B.Sc. in Cyber Security — Canadian University of Dubai** · Graduated May 2026
 <br><sub>Relevant coursework: Network Security · Ethical Hacking · Cryptography · Secure Software Engineering · Digital Forensics · Machine Learning</sub>
+
+</div>
 
 <details>
 <summary><b>Certifications by domain</b> (click to expand)</summary>
@@ -142,7 +138,7 @@ deepfake detection.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
 
@@ -160,6 +156,13 @@ deepfake detection.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MohammadThabetHassan&theme=github-dark-blue&hide_border=true&background=00000000">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadThabetHassan&hide_border=true&background=00000000" alt="GitHub streak" height="160">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MohammadThabetHassan&theme=github-compact&hide_border=true&bg_color=00000000&color=2C8DBD&line=2C8DBD&point=58A6FF&area=true&area_color=203A43">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadThabetHassan&theme=minimal&hide_border=true&bg_color=00000000&color=203A43&line=2C5364&point=0F2027&area=true&area_color=B8D4E3" alt="contribution graph" width="96%">
 </picture>
 
 <br><br>
