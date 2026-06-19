@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadthabet)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammad_Thabet@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://mohammadthabethassan.github.io)
+[![VoiceGuard](https://img.shields.io/badge/⭐_Flagship-VoiceGuard-00C9FF?style=for-the-badge&logo=github)](https://github.com/MohammadThabetHassan/VoiceGuard)
 
 <img src="https://komarev.com/ghpvc/?username=MohammadThabetHassan&style=flat-square&color=2C5364&label=profile+views" alt="profile views"/>
 
