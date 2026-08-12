@@ -41,6 +41,20 @@ Cybersecurity researcher and **B.Sc. Cyber Security graduate** (Canadian Univers
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
+<h2 align="center">🔬 Research Focus & Evidence</h2>
+
+My work sits at the intersection of offensive security, applied machine learning, and evidence-driven security engineering. I prioritize reproducible experiments, explicit threat models, and deployable controls over demos that cannot be independently inspected.
+
+| Project | Focus | Evidence |
+|---|---|---|
+| [VoiceGuard](https://github.com/MohammadThabetHassan/VoiceGuard) | Voice deepfake detection, vishing defense, watermarking, and forensic explainability | [README](https://github.com/MohammadThabetHassan/VoiceGuard#readme) · [tests](https://github.com/MohammadThabetHassan/VoiceGuard/tree/main/tests) · [security policy](https://github.com/MohammadThabetHassan/VoiceGuard/blob/main/SECURITY.md) |
+| [xai-ids](https://github.com/MohammadThabetHassan/xai-ids) | Multi-dataset intrusion detection with SHAP, LIME, XCS, and XGBoost | [README](https://github.com/MohammadThabetHassan/xai-ids#readme) · [model card](https://github.com/MohammadThabetHassan/xai-ids/blob/main/MODEL_CARD.md) · [results](https://github.com/MohammadThabetHassan/xai-ids/blob/main/RESULTS.md) · [tests](https://github.com/MohammadThabetHassan/xai-ids/tree/main/tests) |
+| [TokenAbuse-Azure](https://github.com/MohammadThabetHassan/TokenAbuse-Azure) | Device-code authentication abuse, Microsoft Graph enumeration, and SharePoint permission failures | [repository](https://github.com/MohammadThabetHassan/TokenAbuse-Azure#readme) |
+
+For research discussions, security reviews, and collaboration, contact me through [LinkedIn](https://www.linkedin.com/in/mohammadthabet) or [email](mailto:Mohammad_Thabet@hotmail.com). The [portfolio site](https://mohammadthabethassan.github.io) contains the broader project index.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
+
 <h2 align="center">💼 Experience</h2>
 
 **Web & Cloud Security Administrator — Madar Alholool (Orbit Solutions)** · Dubai, UAE · *Jun – Nov 2025*
