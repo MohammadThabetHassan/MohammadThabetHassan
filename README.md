@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Mohammad%20Thabet%20Hassan&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20Researcher%20%C2%B7%20Penetration%20Tester%20%C2%B7%20AI%2FML%20Security%20Engineer&descSize=16&descAlignY=55" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Mohammad%20Thabet%20Hassan&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Penetration%20Testing%20%C2%B7%20Detection%20Engineering%20%C2%B7%20AI%20Security&descSize=16&descAlignY=55" width="100%" alt="Mohammad Thabet Hassan: penetration testing, detection engineering, AI security"/>
 
 <a href="https://github.com/MohammadThabetHassan">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=3500&pause=900&color=2C8DBD&center=true&vCenter=true&width=620&lines=Lead+author+of+3+IEEE+Xplore+papers;1st-Place+National+CTF+Champion;Red+Team+%C2%B7+SOC+%C2%B7+AI%2FML+Security;PyTorch+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Docker+%E2%80%A2+ONNX" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=3500&pause=900&color=2C8DBD&center=true&vCenter=true&width=620&lines=I+run+the+attack%2C+then+write+the+detection;1st+place+%C2%B7+Exploit3rs+national+CTF;HackerVerse+DFIR+CTF+%C2%B7+2000+of+2000;IEEE+first+author+%C2%B7+1+full+paper%2C+2+short" alt="I run the attack, then write the detection"/>
 </a>
 
 <br>
@@ -11,8 +11,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadthabet)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammad_Thabet@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://mohammadthabethassan.github.io)
-[![VoiceGuard](https://img.shields.io/badge/⭐_Flagship-VoiceGuard-00C9FF?style=for-the-badge&logo=github)](https://github.com/MohammadThabetHassan/VoiceGuard)
 [![TrustWeave on PyPI](https://img.shields.io/pypi/v/trustweave?style=for-the-badge&logo=pypi&logoColor=white&label=TrustWeave&color=0F766E)](https://pypi.org/project/trustweave/)
+[![web-posture-check on PyPI](https://img.shields.io/pypi/v/web-posture-check?style=for-the-badge&logo=pypi&logoColor=white&label=web-posture-check&color=0F766E)](https://pypi.org/project/web-posture-check/)
 
 <img src="https://komarev.com/ghpvc/?username=MohammadThabetHassan&style=flat-square&color=2C5364&label=profile+views" alt="profile views"/>
 
@@ -24,18 +24,17 @@
 
 <div align="center">
 
-Cybersecurity researcher and **B.Sc. Cyber Security graduate** (Canadian University of Dubai, May 2026)
-<br>with **three IEEE Xplore papers as lead author** and a fourth in preparation for an **Elsevier Q1 journal**.
-<br>**First-place national CTF champion** with hands-on experience securing production cloud and email
-<br>infrastructure (AWS, Alibaba Cloud) and building research-grade offensive and AI-security tooling —
-<br>from deep-RL SQL-injection agents to edge-deployable deepfake detection.
+Cyber Security graduate (**Canadian University Dubai**, 2026) who works both sides:
+<br>**I run the attack, then write the detection that catches it.**
+<br>Looking for **penetration testing or detection engineering roles in the UAE**.
 
 <br>
 
-🔴 **Offensive** — web / network / wireless pentesting · cloud & identity attacks · exploit development
-<br>🔵 **Defensive** — detection engineering · SIEM & log analysis · digital forensics · incident response
-<br>🔬 **Research** — AI/ML security · adversarial ML · explainable AI · audio anti-spoofing
-<br>🎯 **Targeting** — red-team, SOC, and AI-security engineering roles
+🔴 **Attack** — a full Entra ID device-code phishing chain in an authorized CTF, mapped to 6 MITRE ATT&CK techniques
+<br>🔵 **Detect** — the 4 KQL hunts and the Conditional Access policy that stop that chain · a SOC lab where every rule must prove it stays quiet
+<br>🏁 **Compete** — 1st place, Exploit3rs national CTF · 2,000 of 2,000 in the HackerVerse DFIR CTF · 1st place, SANS SEC504 class CTF
+<br>🔬 **Research** — first-author IEEE papers: 1 full paper and 2 two-page short papers
+<br>📚 **Now** — finished SANS SEC504 in November 2026 · preparing for the GCIH exam
 
 🌐 Arabic (native) · English (B2, professional working proficiency)
 
@@ -43,64 +42,68 @@ Cybersecurity researcher and **B.Sc. Cyber Security graduate** (Canadian Univers
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
-<h2 align="center">🔬 Research Focus & Evidence</h2>
+<h2 align="center">🧪 Selected Work & Evidence</h2>
 
-My work sits at the intersection of offensive security, applied machine learning, and evidence-driven security engineering. I prioritize reproducible experiments, explicit threat models, and deployable controls over demos that cannot be independently inspected.
+Every claim below links to something you can inspect: a write-up, a test suite, a package or a paper. Team projects say so, and say which part is mine.
 
-| Project | Focus | Evidence |
+| Project | What it is | Evidence |
 |---|---|---|
-| [VoiceGuard](https://github.com/MohammadThabetHassan/VoiceGuard) | Voice deepfake detection, vishing defence, watermarking, and forensic explainability — XLS-R + AASIST at 2.84% EER (ASVspoof 2021 LA), 0.62 MB ONNX edge model | [![CI](https://github.com/MohammadThabetHassan/VoiceGuard/actions/workflows/ci.yml/badge.svg)](https://github.com/MohammadThabetHassan/VoiceGuard/actions) · [README](https://github.com/MohammadThabetHassan/VoiceGuard#readme) · [tests](https://github.com/MohammadThabetHassan/VoiceGuard/tree/main/tests) · [security policy](https://github.com/MohammadThabetHassan/VoiceGuard/blob/main/SECURITY.md) |
-| [TrustWeave](https://github.com/MohammadThabetHassan/trustweave) | Static security review of AI-agent configurations (LangGraph, CrewAI, OpenAI Agents, MCP): maps source-to-tool flows and flags untrusted input that can reach privileged actions | [![CI](https://github.com/MohammadThabetHassan/trustweave/actions/workflows/ci.yml/badge.svg)](https://github.com/MohammadThabetHassan/trustweave/actions) · [PyPI](https://pypi.org/project/trustweave/) · [docs](https://mohammadthabethassan.github.io/trustweave/) · [CITATION.cff](https://github.com/MohammadThabetHassan/trustweave/blob/main/CITATION.cff) |
-| [xai-ids](https://github.com/MohammadThabetHassan/xai-ids) | Multi-dataset intrusion detection with SHAP, LIME, XCS, and XGBoost, plus an XAI Confidence Score for analyst triage | [![CI](https://github.com/MohammadThabetHassan/xai-ids/actions/workflows/ci.yml/badge.svg)](https://github.com/MohammadThabetHassan/xai-ids/actions) · [model card](https://github.com/MohammadThabetHassan/xai-ids/blob/main/MODEL_CARD.md) · [results](https://github.com/MohammadThabetHassan/xai-ids/blob/main/RESULTS.md) · [live demo](https://mohammadthabethassan.github.io/xai-ids/) |
-| [MIRAGE SOC Lab](https://github.com/MohammadThabetHassan/mirage-soc-lab) | Controlled SOC lab for deterministic detection engineering: replayable telemetry, ATT&CK-mapped analyst cases, regression tests for the rule catalogue | [detection guide](https://github.com/MohammadThabetHassan/mirage-soc-lab/blob/main/docs/DETECTION_ENGINEERING_GUIDE.md) · [e2e tests](https://github.com/MohammadThabetHassan/mirage-soc-lab/tree/main/e2e) · [overview](https://mohammadthabethassan.github.io/mirage-soc-lab/) |
-| [DiskTrace](https://github.com/MohammadThabetHassan/disktrace) | Read-only forensic recovery for disk images with explicit evidence boundaries and machine-readable export receipts (Rust) | [![Verify](https://github.com/MohammadThabetHassan/disktrace/actions/workflows/verify.yml/badge.svg)](https://github.com/MohammadThabetHassan/disktrace/actions) · [security policy](https://github.com/MohammadThabetHassan/disktrace/blob/main/SECURITY.md) |
-| [TokenAbuse-Azure](https://github.com/MohammadThabetHassan/TokenAbuse-Azure) | Device-code authentication abuse, Microsoft Graph enumeration, and SharePoint permission failures, with the KQL hunts and Conditional Access policy that catch the chain | [write-up](https://github.com/MohammadThabetHassan/TokenAbuse-Azure#readme) |
+| [TokenAbuse-Azure](https://github.com/MohammadThabetHassan/TokenAbuse-Azure) | **Attack, then detect.** An authorized cloud red-team CTF challenge I solved: OAuth device-code phishing, token theft, Microsoft Graph and SharePoint enumeration, and exfiltration, mapped to 6 MITRE ATT&CK techniques. Then the defensive side: 4 KQL hunts and a Conditional Access policy that blocks the device-code flow. | [write-up](https://github.com/MohammadThabetHassan/TokenAbuse-Azure#readme) · ![Stars](https://img.shields.io/github/stars/MohammadThabetHassan/TokenAbuse-Azure?style=flat&color=2C8DBD&label=%E2%AD%90) |
+| [MIRAGE SOC Lab](https://github.com/MohammadThabetHassan/mirage-soc-lab) | **Detection engineering.** A SOC lab on synthetic, deterministic telemetry, built with Abdulrahman Rezki. A rule will not load unless it names a benign and a boundary scenario it must stay quiet on. Its baseline is a regression test over 10 scenarios (4 attacks, 6 benign or boundary), not a field detection rate. I wrote most of the detection engine. | [![Quality](https://github.com/MohammadThabetHassan/mirage-soc-lab/actions/workflows/quality.yml/badge.svg)](https://github.com/MohammadThabetHassan/mirage-soc-lab/actions/workflows/quality.yml) · [detection guide](https://github.com/MohammadThabetHassan/mirage-soc-lab/blob/main/docs/DETECTION_ENGINEERING_GUIDE.md) · [e2e tests](https://github.com/MohammadThabetHassan/mirage-soc-lab/tree/main/e2e) |
+| [HackerVerse DFIR write-up](https://github.com/MohammadThabetHassan/HackerVerse-DFIR-2026) | **Forensics.** EC-Council HackerVerse DFIR CTF, September 2026: 2,000 of 2,000 points across 27 challenges (Grandmaster level). Steganography, intrusion reconstruction from a packet capture, LSASS and DPAPI credential recovery, and a .NET ransomware key rebuild, each with the commands. | [write-up](https://github.com/MohammadThabetHassan/HackerVerse-DFIR-2026#readme) · [PDF](https://github.com/MohammadThabetHassan/HackerVerse-DFIR-2026/blob/main/HackerVerse-DFIR-Sept-2026-writeup.pdf) |
+| [web-posture-check](https://github.com/MohammadThabetHassan/web-posture-check) | **Security tooling.** A command-line tool that grades a website's security posture from the outside: 20 checks across headers, cookies, CORS, TLS, CAA, security.txt, SPF, DMARC and DKIM. Its HSTS parsing was checked against a real Chrome on 35 headers, and it writes SARIF for GitHub code scanning. Built with Omar Alraas. | [![CI](https://github.com/MohammadThabetHassan/web-posture-check/actions/workflows/ci.yml/badge.svg)](https://github.com/MohammadThabetHassan/web-posture-check/actions/workflows/ci.yml) · [PyPI](https://pypi.org/project/web-posture-check/) · [all checks](https://github.com/MohammadThabetHassan/web-posture-check#checks) |
+| [TrustWeave](https://github.com/MohammadThabetHassan/trustweave) | **AI-agent security.** Static review of AI-agent configurations (LangGraph, CrewAI, OpenAI Agents, MCP): maps source-to-tool flows and flags untrusted input that can reach a privileged action. Runs locally, with no network calls and no agent execution. A five-person team project at CUD, supervised by Dr. Lobna AbuSerrieh. | [![CI](https://github.com/MohammadThabetHassan/trustweave/actions/workflows/ci.yml/badge.svg)](https://github.com/MohammadThabetHassan/trustweave/actions/workflows/ci.yml) · [PyPI](https://pypi.org/project/trustweave/) · [docs](https://mohammadthabethassan.github.io/trustweave/) · [CITATION.cff](https://github.com/MohammadThabetHassan/trustweave/blob/main/CITATION.cff) |
+| [DiskTrace](https://github.com/MohammadThabetHassan/disktrace) | **Forensic tooling.** Read-only recovery for disk images, written in Rust. Every candidate shows its method, source offset and validation state, and each export produces a receipt bound to the source hashes. Pre-release (v0.1.0). | [![Verify](https://github.com/MohammadThabetHassan/disktrace/actions/workflows/verify.yml/badge.svg)](https://github.com/MohammadThabetHassan/disktrace/actions/workflows/verify.yml) · [safety and evidence contract](https://github.com/MohammadThabetHassan/disktrace/blob/main/docs/safety-and-evidence.md) |
+| [VoiceGuard](https://github.com/MohammadThabetHassan/VoiceGuard) | **AI security.** Three-person graduation project at CUD: real-time voice-deepfake detection with XLS-R + AASIST at 2.84% EER on ASVspoof 2021 LA. My part: the detection architecture, the FastAPI backend and CI/CD. A separate 0.62 MB ONNX edge model scores 8.47% EER. | [![CI](https://github.com/MohammadThabetHassan/VoiceGuard/actions/workflows/ci.yml/badge.svg)](https://github.com/MohammadThabetHassan/VoiceGuard/actions/workflows/ci.yml) · [tests](https://github.com/MohammadThabetHassan/VoiceGuard/tree/main/tests) · [security policy](https://github.com/MohammadThabetHassan/VoiceGuard/blob/main/SECURITY.md) |
+| [Facts Only](https://github.com/MohammadThabetHassan/facts-only) | **AI security.** Browser extension and web app that flags paid or planted sources in AI chatbot answers. It shows evidence and never a true-or-false verdict. In a staged test it flagged 8 of 8 planted sources and wrongly accused none of 209 real publishers. | [![CI](https://github.com/MohammadThabetHassan/facts-only/actions/workflows/ci.yml/badge.svg)](https://github.com/MohammadThabetHassan/facts-only/actions/workflows/ci.yml) · [live demo](https://mohammadthabethassan.github.io/facts-only/webapp/index.html?demo=1) |
+| [xai-ids](https://github.com/MohammadThabetHassan/xai-ids) | **Explainable detection.** Intrusion detection across CIC-IDS-2017, UNSW-NB15 and CSE-CIC-IDS-2018 with SHAP and LIME: F1 0.996 on CIC-IDS-2017 and about 0.80 on the harder UNSW-NB15. It adds an XAI Confidence Score built from model confidence, SHAP stability and SHAP-LIME agreement; the explanation half of that score is still being validated. Team project. | [![CI](https://github.com/MohammadThabetHassan/xai-ids/actions/workflows/ci.yml/badge.svg)](https://github.com/MohammadThabetHassan/xai-ids/actions/workflows/ci.yml) · [model card](https://github.com/MohammadThabetHassan/xai-ids/blob/main/MODEL_CARD.md) · [results](https://github.com/MohammadThabetHassan/xai-ids/blob/main/RESULTS.md) · [live demo](https://mohammadthabethassan.github.io/xai-ids/) |
 
-For research discussions, security reviews, and collaboration, contact me through [LinkedIn](https://www.linkedin.com/in/mohammadthabet) or [email](mailto:Mohammad_Thabet@hotmail.com). The [portfolio site](https://mohammadthabethassan.github.io) contains the broader project index.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
-
-<h2 align="center">💼 Experience</h2>
-
-**Security Intern, Security Department — Madar Alholool Project Management L.L.C (Orbit Solutions)** · Dubai, UAE · *Jun 2025 – Aug 2026 (part-time)*
-
-- Designed and set up the internal security infrastructure: logging pipelines, monitoring components and scripted security checks, then tuned the monitoring rules against real operational data to cut false positives.
-- Ran vulnerability assessments and security reviews of internal applications, supported incident-response procedures, and integrated security checks into the development lifecycle with the engineering team.
-- Built and hardened the public web, mail and DNS stack for [madaralholool.com](https://madaralholool.com) on Alibaba Cloud and AWS EC2: SPF, DKIM and DMARC on the corporate mail flow, TLS on every public endpoint, key-only SSH, least-privilege firewall rules, patching and access reviews.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
-
-<h2 align="center">📄 Publications & Research</h2>
-
-![Published](https://img.shields.io/badge/IEEE_Xplore-PUBLISHED-2E7D32?style=flat-square)
-**SmartInject: Automated SQL Injection Testing Using Deep Q-Learning and LSTM-Based Payload Generation**
-<br><sub>**M. Thabet** (lead author), G. B. Satrya, A. Kermani — ICAMAC 2025, Dubai, UAE, pp. 1–6 · [DOI: 10.1109/ICAMAC67779.2025.11398683](https://doi.org/10.1109/ICAMAC67779.2025.11398683)</sub>
-<br><sub>Hybrid DQN+LSTM agent achieving an **80% vulnerability-discovery rate** at DVWA "High" vs. 0% for static-fuzzing and DQN-only baselines.</sub>
-
-![Published](https://img.shields.io/badge/IEEE_Xplore-PUBLISHED-2E7D32?style=flat-square)
-**Lightweight Voice Deepfake Detection for Smart Mobility Using Multi-Feature Ensemble Learning**
-<br><sub>**M. Thabet Hassan** (lead author), F. Sadek, A. Sami, A. Kermani Kolankeh — IEEE SM 2026, Al Alamein, Egypt, pp. 1–2 · [DOI: 10.1109/SM69703.2026.11614145](https://doi.org/10.1109/SM69703.2026.11614145)</sub>
-<br><sub>Edge-deployable ensemble: **F1 = 0.95**, <2 MB model, 36.8 ms feature extraction. Extended into the open-source **[VoiceGuard](https://github.com/MohammadThabetHassan/VoiceGuard)** platform: XLS-R + AASIST at **2.84% EER** on the official ASVspoof 2021 LA benchmark, with explainability, signed C2PA provenance, and a 0.62 MB ONNX edge build.</sub>
-
-![Published](https://img.shields.io/badge/IEEE_Xplore-PUBLISHED-2E7D32?style=flat-square)
-**OTA Update-Channel Compromise Risk in Smart Mobility: A Testbed Comparing Governance and Cryptographic Controls**
-<br><sub>**M. Thabet Hassan** (lead author), O. Alraas, L. A. AbuSerrieh — IEEE SM 2026, Al Alamein, Egypt, pp. 1–2 · [DOI: 10.1109/SM69703.2026.11614128](https://doi.org/10.1109/SM69703.2026.11614128)</sub>
-<br><sub>Monte-Carlo testbed (500 runs × 50,000 ECUs); layered governance cut median attack blast radius from 27,784 → **46 ECUs (99.7%)**.</sub>
-
-![In preparation](https://img.shields.io/badge/Elsevier_Q1_(JNCA)-IN_PREPARATION-B26A00?style=flat-square)
-**XAI-IDS: A Multi-Dataset Explainable AI Framework for Network Intrusion Detection with a Novel XAI Confidence Score**
-<br><sub>**M. Thabet Hassan** (lead author), F. Sadek, A. Sami, M. Khurana · [Code](https://github.com/MohammadThabetHassan/xai-ids)</sub>
-<br><sub>Ensemble IDS across CIC-IDS-2017, UNSW-NB15 & CSE-CIC-IDS-2018 (**16M+ records**); F1 up to **0.9964**; novel XAI Confidence Score separating correct from incorrect predictions (Cohen's d = 1.0–1.2).</sub>
+Also here: [odoo-ai-helpdesk-triage](https://github.com/MohammadThabetHassan/odoo-ai-helpdesk-triage), a guard-railed LLM helpdesk agent for Odoo 19 (built and tested, not in production), and [bcs407-campus-safety](https://github.com/MohammadThabetHassan/bcs407-campus-safety), a YOLOv8 course project with a [browser demo](https://campussafety.eu.cc). The [portfolio site](https://mohammadthabethassan.github.io) has the full index.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
 <h2 align="center">🏆 Awards & Competitions</h2>
 
-- 🥇 **1st place — Exploit3rs CTF** (Zayed Sector & CyberE71), 2025 — national Capture-the-Flag; finished first across web, network, and binary-exploitation tracks
-- 🥇 **1st place & "Best Implementation Champion" — Dubai AI System Competition**, 2024 (Alibaba Cloud / RTA Hackathon) — honoured at **GITEX Global**
-- 🥇 **1st place — CUD First Coding Competition** (2023) · 🥈 **2nd place — CUD Engineering Software Category** (2024)
+- 🥇 **1st place — SANS SEC504 class CTF**, Dubai, November 2026 — team of four, 312 points, 88 clear of second place. I scored 200 of them, then went back that night and finished all 98 challenges. Each of us received the SEC504 challenge coin.
+- 🏅 **Grandmaster level — EC-Council HackerVerse DFIR CTF**, September 2026 — 2,000 of 2,000 points across 27 challenges · [write-up](https://github.com/MohammadThabetHassan/HackerVerse-DFIR-2026)
+- 🥇 **1st place — Exploit3rs CTF**, 2025 — national three-stage CTF hosted at Zayed University with CyberE71; team of two
+- 🥇 **1st place & "Best Implementation Champion" — Dubai AI System Competition**, 2024 (Alibaba Cloud / RTA hackathon) — team project SmartTranspo, honoured at GITEX Global
+- 🥇 **1st place — CUD First Coding Competition** (2023) · 🥈 **2nd place — CUD Engineering Demo Day** (2025, senior software project)
 - 🎯 **9th place — Sharjah Police CTF** (2025)
-- 📡 **Workshops attended:** *Router Hacking* · *Network Pentesting 101* (Exploit3rs, hands-on exploitation & defence labs)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
+
+<h2 align="center">📄 Publications</h2>
+
+![Published](https://img.shields.io/badge/IEEE_Xplore-FULL_PAPER-2E7D32?style=flat-square)
+**SmartInject: Automated SQL Injection Testing Using Deep Q-Learning and LSTM-Based Payload Generation**
+<br><sub>**M. Thabet** (first author), G. B. Satrya, A. Kermani — ICAMAC 2025, Dubai, UAE, pp. 1–6 · [DOI: 10.1109/ICAMAC67779.2025.11398683](https://doi.org/10.1109/ICAMAC67779.2025.11398683)</sub>
+<br><sub>A reinforcement-learning SQL-injection tester (DQN + LSTM) that found **80% of vulnerabilities** at DVWA "High", where static fuzzing and a DQN-only baseline found none.</sub>
+
+![Published](https://img.shields.io/badge/IEEE_Xplore-SHORT_PAPER-2E7D32?style=flat-square)
+**Lightweight Voice Deepfake Detection for Smart Mobility Using Multi-Feature Ensemble Learning**
+<br><sub>**M. Thabet Hassan** (first author), F. Sadek, A. Sami, A. Kermani Kolankeh — IEEE SM 2026, Al Alamein, Egypt, pp. 1–2 · [DOI: 10.1109/SM69703.2026.11614145](https://doi.org/10.1109/SM69703.2026.11614145)</sub>
+<br><sub>A lightweight multi-feature ensemble for edge devices: **F1 = 0.95**, under 2 MB, no GPU. The later [VoiceGuard](https://github.com/MohammadThabetHassan/VoiceGuard) platform and its 2.84% EER are separate work that came after this paper.</sub>
+
+![Published](https://img.shields.io/badge/IEEE_Xplore-SHORT_PAPER-2E7D32?style=flat-square)
+**OTA Update-Channel Compromise Risk in Smart Mobility: A Testbed Comparing Governance and Cryptographic Controls**
+<br><sub>**M. Thabet Hassan** (first author), O. Alraas, L. A. AbuSerrieh — IEEE SM 2026, Al Alamein, Egypt, pp. 1–2 · [DOI: 10.1109/SM69703.2026.11614128](https://doi.org/10.1109/SM69703.2026.11614128)</sub>
+<br><sub>A Monte-Carlo testbed (500 runs, 50,000 ECUs): layered governance cut the modelled attack blast radius from 27,784 to **46 ECUs (99.7%)**.</sub>
+
+![In preparation](https://img.shields.io/badge/IN_PREPARATION-B26A00?style=flat-square)
+**Explainable intrusion detection (XAI-IDS)** <sub>— a paper on the [xai-ids](https://github.com/MohammadThabetHassan/xai-ids) work is in preparation.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
+
+<h2 align="center">💼 Experience</h2>
+
+**IT & Security — Madar Alholool (Orbit Solutions)** · Dubai, UAE · *May 2025 – Aug 2026 (part-time)*
+
+Only IT and security person for a 30-year MENA engineering and consulting firm with no in-house IT team: email, DNS, website and cloud servers.
+
+- Set up the firm's company-domain email on Alibaba Cloud: full DNS zone, hard-fail SPF, and DKIM signing for staff mail and the apps' transactional email.
+- Built and launched the firm's website, [madaralholool.com](https://madaralholool.com), served over HTTPS only and verified in Google Search Console.
+- Deployed the firm's web apps on an Alibaba Cloud server behind HTTPS.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
@@ -108,14 +111,12 @@ For research discussions, security reviews, and collaboration, contact me throug
 
 | | |
 |---|---|
-| **Offensive Security** | Penetration Testing (OWASP Top 10) · Web / Network / Wireless Pentesting · Exploit Development · Privilege Escalation · MITM & Evil-Twin · Cloud & Identity Attacks (Entra ID / OAuth / Microsoft Graph) · OSINT · Responsible Disclosure |
-| **Blue Team / SOC** | SIEM & Log Analysis · Incident Response · Threat Hunting · Threat Intelligence · Vulnerability Management · Detection Engineering & Threshold Calibration · Digital Forensics · Secure Coding |
-| **AI/ML Security** | Adversarial ML & Robustness (FGSM / evasion) · Explainable AI (SHAP, LIME, Integrated Gradients) · Self-Supervised Audio Models (XLS-R / wav2vec2 / AASIST) · Deep RL (PPO, DQN) · LSTM Payload Generation · ONNX Edge Deployment · LLM-Agent Security (MCP, tool-use policy) |
-| **Frameworks** | OWASP Top 10 · OWASP LLM Top 10 · MITRE ATT&CK · MITRE ATLAS · NIST SP 800-86 (Forensics) · C2PA Provenance |
-| **Tools** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat) ![Microsoft Sentinel](https://img.shields.io/badge/Sentinel_%2F_KQL-0078D4?style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) Hydra · John the Ripper · Aircrack-ng · hostapd · TokenTacticsV2 |
-| **ML / Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat) ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat&logo=ultralytics&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat) Stable-Baselines3 · LightGBM · captum |
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonwebservices&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure_AD_%2F_Entra_ID-0078D4?style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) DNS / SPF / DKIM / DMARC · CI/CD |
+| **Offensive** | Web and cloud-identity penetration testing (OWASP Top 10, Entra ID / OAuth / Microsoft Graph) · SQL injection · CTF exploitation |
+| **Detection & DFIR** | Detection engineering · KQL threat hunting · MITRE ATT&CK mapping · packet and log analysis · memory and credential forensics · .NET malware reversing |
+| **AI security** | Audio anti-spoofing (XLS-R, AASIST) · explainable AI (SHAP, LIME, Integrated Gradients) · deep RL for security testing (DQN, LSTM) · LLM-agent configuration review (MCP) · ONNX edge deployment |
+| **Tools** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat) ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| **Cloud & infra** | ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white) ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) DNS · SPF / DKIM / DMARC · TLS · CI/CD |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
 
@@ -123,8 +124,11 @@ For research discussions, security reviews, and collaboration, contact me throug
 
 <div align="center">
 
-**B.Sc. in Cyber Security — Canadian University of Dubai** · Graduated May 2026 · CGPA 3.46 / 4.0
+**B.Sc. in Cyber Security — Canadian University Dubai** · 2026 · CGPA 3.48 / 4.0
 <br><sub>Relevant coursework: Network Security · Ethical Hacking · Cryptography · Secure Software Engineering · Digital Forensics · Machine Learning</sub>
+
+**SANS SEC504: Hacker Tools, Techniques, and Incident Handling** · completed November 2026, Dubai
+<br><sub>Next: the GIAC GCIH exam.</sub>
 
 </div>
 
@@ -162,30 +166,9 @@ Full list with verification links on the [portfolio site](https://mohammadthabet
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3" width="100%" alt=""/>
-
-<h2 align="center">📈 Open Source at a Glance</h2>
-
 <div align="center">
 
-| Repository | What it is | Stars | Status |
-|---|---|---|---|
-| [VoiceGuard](https://github.com/MohammadThabetHassan/VoiceGuard) | Voice-deepfake detection & vishing defence platform | ![Stars](https://img.shields.io/github/stars/MohammadThabetHassan/VoiceGuard?style=flat&color=2C8DBD&label=%E2%AD%90) | ![CI](https://img.shields.io/github/actions/workflow/status/MohammadThabetHassan/VoiceGuard/ci.yml?style=flat&label=CI) |
-| [trustweave](https://github.com/MohammadThabetHassan/trustweave) | Static security review for AI-agent configs | ![Stars](https://img.shields.io/github/stars/MohammadThabetHassan/trustweave?style=flat&color=2C8DBD&label=%E2%AD%90) | ![PyPI](https://img.shields.io/pypi/v/trustweave?style=flat&label=PyPI&color=0F766E) |
-| [xai-ids](https://github.com/MohammadThabetHassan/xai-ids) | Explainable multi-dataset intrusion detection | ![Stars](https://img.shields.io/github/stars/MohammadThabetHassan/xai-ids?style=flat&color=2C8DBD&label=%E2%AD%90) | ![CI](https://img.shields.io/github/actions/workflow/status/MohammadThabetHassan/xai-ids/ci.yml?style=flat&label=CI) |
-| [mirage-soc-lab](https://github.com/MohammadThabetHassan/mirage-soc-lab) | Deterministic detection-engineering SOC lab | ![Stars](https://img.shields.io/github/stars/MohammadThabetHassan/mirage-soc-lab?style=flat&color=2C8DBD&label=%E2%AD%90) | ![Last commit](https://img.shields.io/github/last-commit/MohammadThabetHassan/mirage-soc-lab?style=flat&label=updated) |
-| [disktrace](https://github.com/MohammadThabetHassan/disktrace) | Read-only forensic recovery for disk images (Rust) | ![Stars](https://img.shields.io/github/stars/MohammadThabetHassan/disktrace?style=flat&color=2C8DBD&label=%E2%AD%90) | ![Verify](https://img.shields.io/github/actions/workflow/status/MohammadThabetHassan/disktrace/verify.yml?style=flat&label=verify) |
-| [TokenAbuse-Azure](https://github.com/MohammadThabetHassan/TokenAbuse-Azure) | Entra ID device-code attack chain write-up + detections | ![Stars](https://img.shields.io/github/stars/MohammadThabetHassan/TokenAbuse-Azure?style=flat&color=2C8DBD&label=%E2%AD%90) | ![Last commit](https://img.shields.io/github/last-commit/MohammadThabetHassan/TokenAbuse-Azure?style=flat&label=updated) |
-
-![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohammadThabetHassan&query=%24.public_repos&style=flat-square&label=public%20repos&color=2C5364)
-![Followers](https://img.shields.io/github/followers/MohammadThabetHassan?style=flat-square&color=2C5364)
-![Commits this year](https://img.shields.io/github/commit-activity/y/MohammadThabetHassan/VoiceGuard?style=flat-square&label=VoiceGuard%20commits%20%2F%20year&color=2C5364)
-
-</div>
-
-<div align="center">
-
-📫 **Open to red-team, SOC, and AI-security engineering opportunities.**
+📫 **Open to penetration testing and detection engineering roles in the UAE.**
 
 [LinkedIn](https://www.linkedin.com/in/mohammadthabet) · [Email](mailto:Mohammad_Thabet@hotmail.com) · [Portfolio](https://mohammadthabethassan.github.io)
 
